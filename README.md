@@ -6,7 +6,7 @@ I've been developing desktop applications since 2019, starting with C# for worki
 
 ## My projects
 
--  🎮 I’m currently working on my Unity [pet](https://github.com/xMrFinlandx/Risk-of-Blizzard) project
+-  🎮 I’m currently working on my Unity [pet](https://github.com/xMrFinlandx/SheepySheep) project
 -  🎓 My [coursework](https://github.com/xMrFinlandx/KirikKursach) is a desktop database application
 </br>
 
