@@ -2,13 +2,7 @@
 
 
 I've been developing desktop applications since 2019, starting with C# for working with databases in Windows Forms and WPF. In 2020, I also started learning Unity for game development and continue to do so. My main goal is to further my career in IT and secure a position in a prestigious company in the future.
-</br>
 
-## My projects
-
--  🎮 I’m currently working on my Unity [pet](https://github.com/xMrFinlandx/SheepySheep) project
--  🎓 My [coursework](https://github.com/xMrFinlandx/KirikKursach) is a desktop database application
-</br>
 
 ## Badge
 <div align="center">
